@@ -6,8 +6,10 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
-Prototype Website
+PROTOTYPE WEBSITE
 =================
+
+The best prototype website ever!
 
 Built by the Beckys
 
