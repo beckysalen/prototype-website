@@ -13,5 +13,6 @@ The best prototype website ever!
 
 Built by the Beckys
 
+We want to learn coding
 
 # prototype-website
